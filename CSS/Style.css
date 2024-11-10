@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+  font-size: 70px;
+}
+.my-button:hover{
+    background-color: green;
+    border-color: green;
+}
+span{
+  font-size:250px;
+  line-height:0.6em;
+  opacity:0.2;
+}
+#quote{
+  font-size: 45px;
+}
